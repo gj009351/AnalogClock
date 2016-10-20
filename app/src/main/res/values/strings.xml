@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnalogClock</string>
+    <array name="tab_name">
+        <item>有秒针</item>
+        <item>无秒针</item>
+    </array>
+</resources>

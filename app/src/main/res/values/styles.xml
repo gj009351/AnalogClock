@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="default_analogClock">
+        <item name="jewelRadius">220dp</item>
+        <item name="jewelStrokeWidth">4dp</item>
+        <item name="jewelColor">@color/clock_white</item>
+        <item name="hourWidth">6dp</item>
+        <item name="hourColor">@color/black</item>
+        <item name="minuteWidth">4dp</item>
+        <item name="minuteColor">@color/black</item>
+        <item name="secondWidth">2dp</item>
+        <item name="secondColor">@color/text_index</item>
+    </style>
+
+</resources>

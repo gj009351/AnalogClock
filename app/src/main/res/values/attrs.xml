@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClock">
+        <attr name="jewelRadius" format="dimension"/>
+        <attr name="jewelOffset" format="dimension"/>
+        <attr name="jewelStrokeWidth" format="dimension"/>
+        <attr name="jewelColor" format="color"/>
+        <attr name="hourWidth" format="dimension"/>
+        <attr name="hourLength" format="dimension"/>
+        <attr name="hourColor" format="color"/>
+        <attr name="minuteWidth" format="dimension"/>
+        <attr name="minuteLength" format="dimension"/>
+        <attr name="minuteColor" format="color"/>
+        <attr name="secondWidth" format="dimension"/>
+        <attr name="secondLength" format="dimension"/>
+        <attr name="secondColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="AnalogClockCustomDrawable">
+        <attr name="dialRadius" format="dimension"/>
+        <attr name="needleOffset" format="dimension"/>
+        <attr name="needleColor" format="color"/>
+    </declare-styleable>
+</resources>
