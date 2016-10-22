@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="needle_color1">#646464</color>
+    <color name="needle_color2">#565656</color>
+    <color name="needle_second">#EC7F5A</color>
+
+    <color name="clock_white">#ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="text_index">#ec7e59</color>
+</resources>

@@ -1,11 +1,9 @@
-package com.duke.analogclock;
+package com.duke.analogclocksamples;
 
-import android.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TabHost;
 
 import java.util.ArrayList;
 import java.util.List;

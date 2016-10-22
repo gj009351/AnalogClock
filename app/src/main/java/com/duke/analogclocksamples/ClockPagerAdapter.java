@@ -1,4 +1,4 @@
-package com.duke.analogclock;
+package com.duke.analogclocksamples;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

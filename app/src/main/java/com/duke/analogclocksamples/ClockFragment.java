@@ -1,4 +1,4 @@
-package com.duke.analogclock;
+package com.duke.analogclocksamples;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -6,6 +6,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.duke.analogclock.AnalogClock;
+import com.duke.analogclock.AnalogClockCustomDrawable;
 
 /**
  * Created by andy on 16-8-5.

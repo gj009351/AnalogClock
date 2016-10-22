@@ -15,6 +15,8 @@ import android.text.format.DateUtils;
 import android.util.AttributeSet;
 import android.view.View;
 
+import com.andy.analogclock.R;
+
 import java.util.Calendar;
 import java.util.TimeZone;
 

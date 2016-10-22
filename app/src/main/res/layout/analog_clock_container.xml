@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    tools:context="com.duke.analogclock.MainActivity">
+    tools:context="com.duke.analogclocksamples.MainActivity">
 
         <com.duke.analogclock.AnalogClock
             android:id="@+id/analog_clock"
